@@ -1,8 +1,0 @@
-{
-  "user_name": "wanghuiru",
-  "password": "ICVJZmcOm5FYuo55",
-  "db_addr": "192.168.7.40",
-  "db_port": "7033",
-  "db_name": "crawler",
-  "random_delay": 15
-}
